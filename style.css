@@ -1,0 +1,54 @@
+#myInput {
+    background-image: url(/img/search.png);
+    background-size: 19px;
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 88%;
+    height: 45px;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    /* margin-bottom: 12px; */
+    margin: 2px 17px;
+  }
+  .input-group{
+      width: 93%;
+  }
+  .input-group-append {
+    margin-left: -17px;
+  }
+  #task{
+    margin: 11px 17px;
+    border-radius: 0px;
+    height: 45px;
+    border-right: 0px;
+
+  }
+  #add{
+    height: 45px;
+    margin: 11px 0px;
+    border-radius: 0px;
+    border-left: 0px;
+    border-color: #e2e6e9;
+    background-color: #fff;
+
+  }
+  #dropdownMenuLink{
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+    width: 30%;
+    text-align: left;
+    font-size: 14px; 
+  }
+  .dropdown-toggle::after {
+    display: inline-block;
+    margin-left: 18.255em;
+  }
+  .btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0;
+}
+.dropdown-menu{
+    width: 29%;
+}
+  
